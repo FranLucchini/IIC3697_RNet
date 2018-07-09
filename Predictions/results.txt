@@ -1,0 +1,69 @@
+Evaluando modelo 0
+{"f1": 12.656968646738317, "exact_match": 5.808893093661306}
+Evaluando modelo 1
+{"f1": 18.135494878906137, "exact_match": 11.210974456007568}
+Evaluando modelo 2
+{"f1": 20.458084407581392, "exact_match": 13.25449385052034}
+Evaluando modelo 3
+{"f1": 22.845275642811615, "exact_match": 15.335856196783348}
+Evaluando modelo 4
+{"f1": 24.56297197562901, "exact_match": 16.982024597918638}
+Evaluando modelo 5
+{"f1": 26.97494509618247, "exact_match": 18.836329233680228}
+Evaluando modelo 6
+{"f1": 29.031650718722297, "exact_match": 20.737937559129612}
+Evaluando modelo 7
+{"f1": 31.430786598073684, "exact_match": 22.762535477767265}
+Evaluando modelo 9
+{"f1": 32.770042503353416, "exact_match": 23.6802270577105}
+Evaluando modelo 12
+{"f1": 36.09068726782992, "exact_match": 26.877956480605487}
+Evaluando modelo 13
+{"f1": 37.52827164142782, "exact_match": 28.59035004730369}
+Evaluando modelo 14
+{"f1": 38.19416647276596, "exact_match": 28.77956480605487}
+Evaluando modelo 15
+{"f1": 38.941961388408835, "exact_match": 29.441816461684013}
+Evaluando modelo 17
+{"f1": 40.503464368394276, "exact_match": 30.955534531693473}
+Evaluando modelo 18
+{"f1": 40.39508538075232, "exact_match": 31.2961210974456}
+Evaluando modelo 19
+{"f1": 42.13066688899191, "exact_match": 32.71523178807947}
+Evaluando modelo 20
+{"f1": 42.47281564258664, "exact_match": 33.140964995269634}
+Evaluando modelo 21
+{"f1": 42.98758603028883, "exact_match": 34.00189214758751}
+Evaluando modelo 22
+{"f1": 43.44594025164693, "exact_match": 33.99243140964995}
+Evaluando modelo 23
+{"f1": 44.28570701848194, "exact_match": 34.92904446546831}
+Evaluando modelo 26
+{"f1": 46.15003960316392, "exact_match": 36.58467360454115}
+Evaluando modelo 27
+{"f1": 46.98834737913844, "exact_match": 37.60643330179754}
+Evaluando modelo 28
+{"f1": 47.13431362694926, "exact_match": 37.71050141911069}
+Evaluando modelo 29
+{"f1": 48.199069465831116, "exact_match": 38.826868495742666}
+Evaluando modelo 30
+{"f1": 48.417897571492645, "exact_match": 39.45127719962157}
+Evaluando modelo 31
+{"f1": 49.39490390267254, "exact_match": 39.97161778618732}
+Evaluando modelo 32
+{"f1": 49.4656141760726, "exact_match": 40.07568590350047}
+Evaluando modelo 33
+{"f1": 50.29998345059678, "exact_match": 40.936613055818356}
+Evaluando modelo 34
+{"f1": 50.393865644618685, "exact_match": 41.116367076631974}
+Evaluando modelo 36
+{"f1": 51.87664806885776, "exact_match": 42.29895931882687}
+Evaluando modelo 37
+{"f1": 52.112222381627454, "exact_match": 42.5922421948912}
+Evaluando modelo 38
+{"f1": 52.7626822423104, "exact_match": 43.39640491958373}
+Evaluando modelo 39
+{"f1": 52.940010806448626, "exact_match": 43.57615894039735}
+Evaluando modelo 41
+{"f1": 54.53072051333522, "exact_match": 44.947965941343426}
+
